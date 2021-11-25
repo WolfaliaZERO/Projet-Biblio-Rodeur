@@ -1,0 +1,32 @@
+
+lol-block h2
+    {
+    margin: 30px 370px 30px 370px;
+    text-align: left; 
+    color: red;
+    border: solid blue;
+    }
+
+lol-block p
+    {
+    margin: 30px 390px 10px 390px;
+    text-align: center; 
+    color: brown;
+    border: solid yellow;
+    }
+
+mdr-block h1
+{
+    margin: 30px 350px 10px 350px;
+    text-align: center; 
+    color: violet;
+    border: solid black;
+}
+
+mdr-block p
+{
+    margin: 30px 350px 10px 350px;
+    text-align: center; 
+    color: green;
+    border: solid red;
+}
